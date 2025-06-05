@@ -1,5 +1,3 @@
-# Isi konten markdown-nya
-content = """
 # Assigment - Day 21 - PySpark.
 
 Phase 1 : Ekstrak Data ke dalam DataFrame
